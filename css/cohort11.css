@@ -9,6 +9,11 @@ p {
     /* Comments can go here too */
 }
 
+body {
+    background-image: url("/img/dr-strange.jpg");
+    background-repeat: no-repeat;
+}
+
 /*
 asdfasdf
 asdfasdf
@@ -35,4 +40,9 @@ img {
 
 
 
-
+#third {
+    text-align: right;
+    border-style: dotted;
+    border-color: darkorange;
+    margin-bottom: 50px;
+}
